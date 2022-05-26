@@ -1,0 +1,6 @@
+yarn add express
+yarn add dotenv
+yarn add mongoose
+yarn add bcryptjs
+yarn add jsonwebtoken
+yarn add cookie-parser
